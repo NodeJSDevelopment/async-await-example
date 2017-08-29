@@ -1,0 +1,10 @@
+{
+  "name": "async-await-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CodeDraken",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
